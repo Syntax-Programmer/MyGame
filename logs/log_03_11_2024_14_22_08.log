@@ -1,0 +1,5 @@
+INFO: Successfully initialized SDL.
+INFO: Successfully created window with title: MyGame
+INFO: Successfully created renderer for the window with title: MyGame
+INFO: Quitting SDL, BYE
+INFO: Destroying the renderer and window with title: MyGame
